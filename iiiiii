@@ -1,0 +1,6 @@
+git clone https://github.com/kingDhaveed/Itoro-fashion.git
+cd Itoro-fashion
+# Add your file to the folder
+git add .
+git commit -m "Add new file"
+git push origin main
