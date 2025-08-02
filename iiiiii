@@ -1,6 +1,34 @@
-git clone https://github.com/kingDhaveed/Itoro-fashion.git
-cd Itoro-fashion
-# Add your file to the folder
-git add .
-git commit -m "Add new file"
-git push origin main
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>THE ITORO BRAND - Home</title>
+  <link rel="stylesheet" href="Itoro.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <h1>Ankarability - THE ITORO BRAND</h1>
+      <ul>
+        <li><a href="home.html">Home</a></li>
+        <li><a href="About.html">About Us</a></li>
+        <li><a href="Order.html">Order</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Welcome to The Itoro Brand</h2>
+    <p>Custom-made Ankara styles, tailored with perfection.</p>
+    <img src="itoropoc.jpg" alt="Tailoring Showcase">
+  </section>
+
+  <footer>
+    <p>&copy; 2025 THE ITORO BRAND. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+ 
+</body>
+</html>
